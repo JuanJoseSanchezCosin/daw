@@ -1,4 +1,4 @@
-Comandos de instalación vsftpd por Juan José Sánchez Cosín
+## Comandos de instalación vsftpd por Juan José Sánchez Cosín
 
 
 
@@ -18,7 +18,7 @@ Comandos de instalación vsftpd por Juan José Sánchez Cosín
 
 &nbsp;
 
-Configuración de vsftpd.conf
+## Configuración de vsftpd.conf
 
 
 
@@ -32,7 +32,7 @@ Configuración de vsftpd.conf
 
 
 
-Configuración de firewall
+## Configuración de firewall
 
 
 
@@ -48,7 +48,7 @@ sudo ufw allow 21/tcp, sudo ufw allow 40000:50000/tcp, sudo ufw reload, sudo ufw
 
 
 
-Pruebas con FileZilla
+## Pruebas con FileZilla
 
 
 
@@ -68,11 +68,27 @@ Pruebas con FileZilla
 
 
 
-Capturas incluidas
+## Capturas incluidas
 https://onedrive.live.com/personal/e6a41efb26ece092/_layouts/15/doc.aspx?resid=1d2404eb-f2f4-4672-b8cc-0caaaca12d8a&cid=e6a41efb26ece092
 
 
 
+## ____________________________________________________________________________________________
+
+
+## Plan de Despliegue
+
+### Entorno utilizado:
+- Sistema operativo: Debian 12
+- VirtualBox con adaptador puente
+- IP: 10.141.136.238
+- Cliente: FileZilla en Windows
+
+### Pasos de despliegue:
+1. Instalación de vsftpd en Debian
+2. Configuración de puertos en firewall
+3. Conexión desde cliente Windows
+4. Transferencia de archivos de prueba
 
 
 

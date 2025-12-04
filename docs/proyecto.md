@@ -69,58 +69,8 @@ Pruebas con FileZilla
 
 
 Capturas incluidas
+https://onedrive.live.com/personal/e6a41efb26ece092/_layouts/15/doc.aspx?resid=1d2404eb-f2f4-4672-b8cc-0caaaca12d8a&cid=e6a41efb26ece092
 
-
-
-
-
-
-
-
-
-&nbsp;
-
-
-
-&nbsp;
-
-
-
-
-
-
-
-&nbsp;
-
-
-
-
-
-&nbsp;
-
-
-
-
-
-
-
-
-
-
-
-
-
-&nbsp;
-
-
-
-&nbsp;
-
-
-
-
-
-&nbsp;
 
 
 

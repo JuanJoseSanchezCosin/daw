@@ -75,33 +75,3 @@ sudo systemctl enable vsftpd
 # Verificación
 sudo systemctl status vsftpd
 ip a  # para ver la IP
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
